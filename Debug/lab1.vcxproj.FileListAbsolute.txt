@@ -1,0 +1,5 @@
+D:\vs\lab1\Debug\lab1.exe
+C:\проги сис\lab1\Debug\lab1.exe
+C:\проги сис\lab 2\Debug\lab1.exe
+C:\проги сис\lab 3\Debug\lab1.exe
+C:\проги сис\lab 4\Debug\lab1.exe
